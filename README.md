@@ -1,1 +1,1 @@
-# alu-web-development
+in this project i will be learning how to create websites from scratch
