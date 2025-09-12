@@ -1,20 +1,29 @@
 body, main {
     display: flex;
+    height: 100vh;
 }
+
 body {
     flex-direction: column;
+    background-color: lightblue;
 }
+
 main {
     flex-direction: row;
-}
-main {
     flex: auto;
 }
+
 article {
     flex: 2;
     overflow-y: auto;
 }
+
 aside {
     flex: 1;
     overflow-y: auto;
+}
+
+h1 {
+    color: darkblue;
+    border-radius: 2px;
 }
